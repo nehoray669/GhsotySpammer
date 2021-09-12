@@ -1,0 +1,20 @@
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\bin\Debug\GhostySpammer.exe.config
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\bin\Debug\GhostySpammer.exe
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\bin\Debug\GhostySpammer.pdb
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.csprojAssemblyReference.cache
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.Form1.resources
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.Properties.Resources.resources
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.csproj.GenerateResource.cache
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.exe
+C:\Users\home\Desktop\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.pdb
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\bin\Debug\GhostySpammer.exe.config
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\bin\Debug\GhostySpammer.exe
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\bin\Debug\GhostySpammer.pdb
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.csprojAssemblyReference.cache
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.Form1.resources
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.Properties.Resources.resources
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.csproj.GenerateResource.cache
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.exe
+C:\Users\home\Desktop\codes\tools project\code projects\GhostySpammer\GhostySpammer\obj\Debug\GhostySpammer.pdb
